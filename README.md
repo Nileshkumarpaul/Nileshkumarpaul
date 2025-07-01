@@ -30,16 +30,7 @@ Database      : MySQL, Firebase (basic)
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NileshUserName&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NileshUserName&layout=compact&theme=tokyonight" height="170"/> </p>
-✨ Featured Projects
-Project	Description	Tech
-JavaCode 🔥	Collection of Java programs on loops, conditions, and logic building	Java
-Task Planner App 📆	To-do task app with email reminder	PHP, HTML, JS
-Blog CMS ✍️	Full-stack blog app with login, CRUD	Java + Spring
 
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:nileshkumar@example.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://github.com/NileshUserName"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /> </a> </p>
-🧠 Quote of the Day
 
-    "Strive for progress, not perfection." 💡
-
-⭐ Thanks for visiting! Don't forget to follow & ⭐ my repos 😄
