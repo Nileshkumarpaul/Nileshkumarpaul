@@ -16,7 +16,7 @@
 - 🧑‍💻 Passionate about **Java, Web Dev & Problem Solving**  
 - ✨ Currently learning **Spring Boot**, **React**, and **DSA**  
 - ⚡ Love working on **real-world projects** and improving daily  
-- 📫 Reach me at: `nileshkumar@example.com` *(replace with real)*
+- 📫 Reach me at: `neelpaul738@gmail.com`
 
 ---
 
